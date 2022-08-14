@@ -27,7 +27,7 @@ I remember what happened to me in 2001. It's 2019 now, so I was struck by the id
 
 At first glance, people may think, that I haven't learned a lesson from these experiences, bacause I will break things again, this is obvious right? Or at least lesson that I learned is "you shouldn't break things you don't know, by playing with curiosity". Wrong!
 
-These were exciting things to learn for me. The service disaster that happened to me in 2001 worked for me 18 years later. That's the lesson for me.
+These were exciting things to learn for me. A little detail I learned from the service disaster that happened to me in 2001 turned into a miracle 18 years later.  Break things, build things, repeat. That's the lesson for me...
 </details>
 
 <details>
@@ -35,10 +35,11 @@ These were exciting things to learn for me. The service disaster that happened t
 Vue, Tailwind CSS, SCSS, Styled Components, Phyton, Django, PHP, Flutter, Dart, Gulp, Bash, Zsh, Arch & Pacman, Ubuntu & APT, .sh scripts, .bat scripts, AdSense, Google Ads (AdWords), FTP, Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SSL, SEO & SEM, IRC & mIRC scripts, GoldSource & Soruce scripts (Half-Life / Counter-Strike .cfg files), Computer Hardware & Overclocking, Microcontroller Chip Programming & BIOS
 </details>
 
-[^1]: Gizli Tarif means Secret Recipe.
+[^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
 [^2]: Black screen  
-![StartingMsdos](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
+\
+![MS-DOS](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
 [^3]: Wikipedia: [Outlive (2001)](https://en.wikipedia.org/wiki/Outlive).
 [^4]: CH341A EEPROM BIOS Flasher  
-![CH341A](https://user-images.githubusercontent.com/6636688/184550630-e2a716df-98ce-49c4-aadc-d2d1a148a009.jpg)
-
+\
+![CH341A Programmer](https://user-images.githubusercontent.com/6636688/184550630-e2a716df-98ce-49c4-aadc-d2d1a148a009.jpg)
