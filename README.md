@@ -1,7 +1,8 @@
+
 ### Hello, my name is Turgut,
 
 I am a self-taught developer and chess player; living in Istanbul, Turkey. I have a recipes blog at: [GizliTarif.com](https://www.gizlitarif.com)[^1] since 2011.
-My blog was suprisingly populer at first couple years (daily 8k - 12k users). Once upon a time, Google🤖 punished my SEO experiments badly. I have many experiments gone wrong 😅!
+My blog was suprisingly populer at first couple years (daily 8k - 12k users). Once upon a time, Google🤖 punished my SEO experiments badly. I have many experiments gone wrong😅!
 
 My story started in 1995, there was a pitch black screen[^2]. It was extraordinarily exciting for me the computer to understanding the "words" I typed on this black screen and responding to me. Today, I am still trying to communicate with computers by this "words" and still feeling very excited about it.
 
@@ -35,7 +36,9 @@ Vue, Tailwind CSS, SCSS, Styled Components, Phyton, Django, PHP, Flutter, Dart, 
 </details>
 
 [^1]: Gizli Tarif means Secret Recipe.
-[^2]: ![StartingMsdos](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
-[^3]: [Wikipedia: Outlive (2001)](https://en.wikipedia.org/wiki/Outlive)
+[^2]: Black screen  
+![StartingMsdos](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
+[^3]: Wikipedia: [Outlive (2001)](https://en.wikipedia.org/wiki/Outlive).
 [^4]: CH341A EEPROM BIOS Flasher  
-![CH341A](https://user-images.githubusercontent.com/6636688/184548930-7bbaba59-9688-409b-a126-cf3d0ddd754c.jpg)
+![CH341A](https://user-images.githubusercontent.com/6636688/184550630-e2a716df-98ce-49c4-aadc-d2d1a148a009.jpg)
+
