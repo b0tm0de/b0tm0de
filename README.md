@@ -31,8 +31,8 @@ These were exciting things to learn for me. A little detail I learned from the s
 </details>
 
 <details>
-<summary>Technologies that I use very little or have ideas for or interested in the past:</summary>
-Vue, Tailwind CSS, SCSS, Styled Components, Phyton, Django, PHP, Flutter, Dart, Gulp, Bash, Zsh, Arch & Pacman, Ubuntu & APT, .sh scripts, .bat scripts, AdSense, Google Ads (AdWords), FTP, Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SSL, SEO & SEM, IRC & mIRC scripts, GoldSource & Soruce scripts (Half-Life / Counter-Strike .cfg files), Computer Hardware & Overclocking, Microcontroller Chip Programming & BIOS
+<summary>Technologies that I use little bit or just interested:</summary>
+Vue, Tailwind CSS, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SEO & SEM, Computer Hardware & Overclocking
 </details>
 
 [^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
