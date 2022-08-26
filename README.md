@@ -20,7 +20,7 @@ Vue, Tailwind, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSen
 </details>
 
 <details>
-<summary>Looks like fun facts are pretty popular on GitHub profile pages, If you have very long time (you have been warned) check this out:</summary>
+<summary>Looks like fun facts are pretty popular on GitHub profile pages, if you have time, check this out:</summary>
 
 In 2001, I updated the BIOS of my computer's motherboard with another brand's motherboard and the computer did not turn on (POST) again, until it was sent for service. The service almost took the money for a new motherboard and reprogrammed the BIOS chip with an external device. Lesson? Let's see.
 
