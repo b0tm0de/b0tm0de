@@ -10,9 +10,14 @@ My first web page was about a game called Outlive (2001).[^3] I created the game
 
 Computers have always been a passion for me but software development was just a hobby until the end of 2021. I've decided to build my career on front-end web development from now on, and that's what I'm working towards.
 
-I use Windows as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite Desktop Environment is KDE Plasma.
+I use Windows as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite desktop environment is KDE Plasma.
 
 Tech stack I currently use for web development: React, Bootstrap, Wordpress, Git, NPM
+
+<details>
+<summary>Other technologies that I am familiar with:</summary>
+Vue, Tailwind, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SEO & SEM, Computer Hardware & Overclocking
+</details>
 
 <details>
 <summary>Looks like fun facts are pretty popular on GitHub profile pages, If you have very long time (you have been warned) check this out:</summary>
@@ -28,11 +33,6 @@ I remember what happened to me in 2001. It's 2019 now, so I was struck by the id
 At first glance, people may think, that I haven't learned a lesson from these experiences, bacause I will break things again, this is obvious right? Or at least lesson that I learned is "you shouldn't break things you don't know, by playing with curiosity". Wrong!
 
 These were exciting things to learn for me. A little detail I learned from the service disaster that happened to me in 2001 turned into a miracle 18 years later.  Break things, build things, repeat. That's the lesson for me...
-</details>
-
-<details>
-<summary>Technologies that I use little bit or just interested:</summary>
-Vue, Tailwind, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SEO & SEM, Computer Hardware & Overclocking
 </details>
 
 [^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
