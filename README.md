@@ -32,7 +32,7 @@ These were exciting things to learn for me. A little detail I learned from the s
 
 <details>
 <summary>Technologies that I use little bit or just interested:</summary>
-Vue, Tailwind CSS, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SEO & SEM, Computer Hardware & Overclocking
+Vue, Tailwind, SCSS, Styled Components, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain Services, VPS/VDS, Plesk, Cpanel, SEO & SEM, Computer Hardware & Overclocking
 </details>
 
 [^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
