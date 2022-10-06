@@ -1,5 +1,5 @@
 
-### Hello, my name is Turgut,
+### Hello,
 
 I am a self-taught developer and chess player; living in Istanbul, Turkey. I have a recipes blog at: [GizliTarif.com](https://www.gizlitarif.com)[^1] since 2011.
 My blog was suprisingly populer at first couple years (daily 8k - 12k users). Once upon a time, Google🤖 punished my SEO experiments badly. I have many experiments gone wrong😅!
