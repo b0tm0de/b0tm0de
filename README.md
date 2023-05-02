@@ -24,7 +24,7 @@ Tailwind, SCSS, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords)
 
 In 2001, I updated the BIOS of my computer's motherboard with another brand's motherboard, and the computer did not turn on (POST) again until it was sent for service. The service almost charged me for a new motherboard and reprogrammed the BIOS chip with an external device. Lesson learned? Let's see.
 
-In 2009, I overclocked my laptop's video card via BIOS, causing it to overheat and break beyond repair. Lesson learned? Let's see.
+In 2009, I overclocked my laptop's external GPU, causing it to overheat and break beyond repair. Lesson learned? Let's see.
 
 In 2019, I tried to overclock the newly purchased desktop computer's GeForce GTX 1050 TI graphics card by editing its BIOS and writing it to the chip. However, I corrupted the voltage values of the chip, causing the video card to be inoperable with any motherboard. Lesson learned? Let's see.
 
@@ -32,11 +32,11 @@ I remembered what happened to me in 2001, and in 2019, I had an idea that there 
 
 At first glance, people may think that I haven't learned a lesson from these experiences because I will break things again, right? Or at least the lesson that I learned is "you shouldn't break things you don't know about by playing with curiosity." Wrong!
 
-These were exciting things for me to learn. A little detail that I learned from the service disaster that happened to me in 2001 turned into a miracle 18 years later. Break things, build things, repeat. That's the lesson for me...
+These were exciting things for me to learn. A little detail that I learned from the service disaster that happened to me in 2001 turned into a miracle 18 years later. Break, build, repeat. That's the lesson for me...
 </details>
 
 [^1]: "Gizli Tarif" means "Secret Recipe" in Turkish.
-[^2]: Black screen. The filename length was limited to 8 characters. Can you believe?
+[^2]: Black screen: The filename length was limited to 8 characters. Would you believe it? :scream:
 \
 ![MS-DOS](https://user-images.githubusercontent.com/6636688/184540115-df496264-2e02-4341-8f1d-c5edcc826a66.png)
 [^3]: Year 2000 Problem: [Y2K / Millennium Bug](https://en.wikipedia.org/wiki/Year_2000_problem)
