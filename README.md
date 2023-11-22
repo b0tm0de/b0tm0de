@@ -12,12 +12,7 @@ Computers have always been a passion for me but software development was just a 
 
 I use Win10 as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite desktop environment is KDE Plasma.
 
-Tech stack I currently use for web development: React, Bootstrap, Wordpress, Git, NPM
-
-<details>
-<summary>Other technologies that I am familiar with:</summary>
-Tailwind, SCSS, Phyton, PHP, Dart (Flutter), Gulp, AdSense, Google Ads (AdWords), Hosting & Domain, VPS/VDS, Plesk, Cpanel, SEO.
-</details>
+Tech stack I currently use for web development: React JS, Astro JS, Bootstrap, Wordpress, Git, NPM
 
 <details>
 <summary>Looks like fun facts are pretty popular on GitHub profile pages, if you have time, check this out:</summary>
