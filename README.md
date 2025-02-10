@@ -10,9 +10,9 @@ I built my first website; one year after, "year 2000 problem[^3]". Website was a
 
 Computers have always been a passion for me but software development was just a hobby until the end of 2021. I've decided to build my career on front-end web development from now on, and that's what I'm working towards.
 
-I use Win10 as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite desktop environment is KDE Plasma.
+I use Win11 as the main OS, but occasionally; distro hopping. My favorite distro is Arch and favorite desktop environment is KDE Plasma.
 
-Tech stack I currently use for web development: React JS, Astro JS, Bootstrap, Wordpress, Git, NPM
+Tech stack I currently use for web development: React / Next JS, Astro JS, Bootstrap, Wordpress, Git, NPM
 
 <details>
 <summary>Looks like fun facts are pretty popular on GitHub profile pages, if you have time, check this out:</summary>
